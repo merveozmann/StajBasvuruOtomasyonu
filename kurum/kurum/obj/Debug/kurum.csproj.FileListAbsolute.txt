@@ -1,0 +1,10 @@
+C:\Users\MERVE\Desktop\yazılımödevi\kurum\kurum\bin\Debug\kurum.exe.config
+C:\Users\MERVE\Desktop\yazılımödevi\kurum\kurum\bin\Debug\kurum.exe
+C:\Users\MERVE\Desktop\yazılımödevi\kurum\kurum\bin\Debug\kurum.pdb
+C:\Users\MERVE\Desktop\yazılımödevi\kurum\kurum\obj\Debug\kurum.csprojResolveAssemblyReference.cache
+C:\Users\MERVE\Desktop\yazılımödevi\kurum\kurum\obj\Debug\kurum.Form1.resources
+C:\Users\MERVE\Desktop\yazılımödevi\kurum\kurum\obj\Debug\kurum.Properties.Resources.resources
+C:\Users\MERVE\Desktop\yazılımödevi\kurum\kurum\obj\Debug\kurum.csproj.GenerateResource.Cache
+C:\Users\MERVE\Desktop\yazılımödevi\kurum\kurum\obj\Debug\kurum.exe
+C:\Users\MERVE\Desktop\yazılımödevi\kurum\kurum\obj\Debug\kurum.pdb
+C:\Users\MERVE\Desktop\yazılımödevi\kurum\kurum\obj\Debug\kurum.Form2.resources
